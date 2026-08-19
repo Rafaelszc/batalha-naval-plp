@@ -27,3 +27,14 @@ O sistema adota o padrão **MVC (Model-View-Controller)**, mediado por um **Stat
 │   └── utils/ (UI)
 └── main.lua
 ```
+
+## Usabilidade
+Esse projeto possui as seguintes dependências
+
+| Nome | Versão |
+| --- | --- |
+| Lua | 5.8.4 |
+| luarocks | 3.9.2 |
+| lsqlite | 0.9.6 |
+| LOVE | 11.5 |
+ 
